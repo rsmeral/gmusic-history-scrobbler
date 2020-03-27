@@ -1,0 +1,22 @@
+{
+  "name": "gmusic-lfm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lastfm-node-client": "https://github.com/rsmeral/lastfm-node-client#types",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.5",
+    "moment": "^2.24.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/minimist": "^1.2.0",
+    "@types/node": "^13.9.3",
+    "@types/readline-sync": "^1.4.3",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
