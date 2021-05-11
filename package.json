@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "lastfm-node-client": "https://github.com/rsmeral/lastfm-node-client#types",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "moment": "^2.24.0",
     "readline-sync": "^1.4.10"
